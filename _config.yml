@@ -66,9 +66,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Kim Daewon"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "아 몰라."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
